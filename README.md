@@ -1,8 +1,21 @@
-The library plays a vital role in both academic and various professional fields. The effectiveness of a library depends on the organization of its books and how easily users can access their preferred titles. The Smart Library Shelf Management system caters to the needs of both librarians and students, offering flexibility and convenience. This system enables librarians and library patrons to save time and enhance library efficiency. It provides precise book search results and indicates the exact book location to users. Additionally, it manages information about shelves, books, faculties, and students. It also helps identify misplaced books on the shelves by users and generates various reports for administrators and librarians. Moreover, this system can be customized to meet the specific requirements of any new library.
+# Smart-Library-Shelf-Management-System
 
-Puspose:
-- Handling book, slot, and shelf information.
-- Retrieving a book's location based on a reader's search query.
-- Adjusting and rearranging book locations when a new shelf is added to the library.
-- Providing a visual representation of book locations.
-- Generating reports for books that are currently not in their designated places.
+The library is an important part of the academic sector as well as most of the professional 
+sectors. The efficiency of a library lies in how the books are arranged and how easily one 
+can get the books of their choice. This Smart Library Shelf Management system supports 
+the general requirements of the librarian and the student as well as offers flexible and 
+convenient features. This system allows librarians and library users to minimize time and 
+maximize the efficiency of the library. This system gives the exact search result of the 
+book as well as the exact location of the book to the user. 
+It will manage the information about the shelves, books, faculties, and students. It will 
+also provide information regarding the misplaced book on the shelf by the book reader. 
+It will generate the different reports for the administrator and librarians also, this system 
+is customizable for any new library requirements. 
+
+Purpose
+
+To manage book, slot and shelf detail. 
+To get the location of a book as per the search query of reader. 
+Configure and reschedule of book location, if the new shelf is purchased in the library.  
+The graphical representation of the book location. 
+Reports on a number of the book in an unordered state. 
